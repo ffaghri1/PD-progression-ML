@@ -24,4 +24,4 @@ The clinical manifestations of Parkinson disease are characterized by considerab
 
 
 ### Usage:
-To accompany the manuscript, and to help with replication and extension of our work, we have made the code publicly available for use by non-profit academic researchers (https://github.com/ffaghri1/PD-progression-ML)
+To accompany the manuscript, and to help with replication and extension of our work, we have made the code publicly available under GPLv3 (https://github.com/ffaghri1/PD-progression-ML)
